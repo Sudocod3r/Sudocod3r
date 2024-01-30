@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sudocod3r, but you can call me Boba Fett.
+- 👋 Hi, I’m @Sudocod3r,
 - 👀 I’m interested in Cloud Computing, Cloud Integration, Database Administration, Cyber Security, and Coding.
 - 🌱 I’m currently learning compTIA A+ (College course), VScode, Linux, Penetration Testing, Python, JS, HTML, A-Z-900, Oracle Database SQL.
-- 💞️ I’m looking to collaborate on anything that will improve my skills as a Cloud Admin, DBA, and Penetration tester ;)
+- 💞️ I’m looking to collaborate on anything that will improve my skills ;)
 - 📫 Add me on DISCORD- NOMAd904#1568
 
 <!---
