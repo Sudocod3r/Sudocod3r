@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sudocod3r,
+- 👋 Hi, I’m Kyle Martin.
 - 👀 I’m interested in Cloud Computing, Cloud Integration, Database Administration, Cyber Security, and Coding.
-- 🌱 I’m currently learning compTIA A+ (College course), VScode, Linux, Penetration Testing, Python, JS, HTML, A-Z-900, Oracle Database SQL.
+- 🌱 I’m currently learning Penetration Testing, Python, JS, HTML, A-Z-900, Oracle Database,& MySQL.
 - 💞️ I’m looking to collaborate on anything that will improve my skills ;)
-- 📫 Add me on DISCORD- NOMAd904#1568
+
 
 <!---
 Sudocod3r/Sudocod3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
