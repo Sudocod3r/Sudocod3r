@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Kyle Martin.
-- ![TryHackMeBadge](https://github.com/Sudocod3r/Sudocod3r/assets/125510528/feb3e9b7-a375-4919-98df-92fc199f1f86)
+ ![TryHackMeBadge](https://github.com/Sudocod3r/Sudocod3r/assets/125510528/feb3e9b7-a375-4919-98df-92fc199f1f86)
+<script src="https://tryhackme.com/badge/1838871"></script>
+
 
 - 👀 I’m interested in Cyber Security, Hacking, and Coding.
 - 🌱 I’m currently studying for the Security+, EJPT, SOC-1, and A-Z900.
