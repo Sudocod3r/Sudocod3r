@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Kyle Martin.
 - 👀 I’m interested in Cyber Security, Hacking, and Coding.
-- 🌱 I’m currently studying for the Security+, EJPT, SOC-1, and A-Z900.
+- 🌱 I’m currently studying for the Security+, Pentest+, and SOC-1.
 - 💞️ I’m looking to collaborate on anything that will improve my skills ;)
       
    Discord: nomad904
