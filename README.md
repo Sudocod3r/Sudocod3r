@@ -1,11 +1,25 @@
  ![TryHackMeBadge](https://github.com/Sudocod3r/Sudocod3r/assets/125510528/feb3e9b7-a375-4919-98df-92fc199f1f86)
+About Me
+Hi, I’m Kyle Martin, a passionate IT professional and the founder of Squid Tech Services, where I help small businesses streamline their technology and achieve operational efficiency. With expertise in Oracle database management, SQL querying, Python scripting, and cybersecurity, I deliver fast, intelligent IT solutions that are tailored to the unique needs of each client.
 
-- 👋 Hi, I’m Kyle Martin.
-- 👀 I’m interested in Cyber Security, Hacking, and Coding.
-- 🌱 I’m currently studying for the Security+, Pentest+, and SOC-1.
-- 💞️ I’m looking to collaborate on anything that will improve my skills ;)
-      
-   Discord: nomad904
+In addition to running my own business, I have hands-on experience as a Distribution Control System Technician where I’ve developed and automated workflows using Python and SQL to enhance system performance and resolve critical issues. I’m also proficient in server management, network security, and penetration testing, making me a well-rounded IT specialist.
+
+On GitHub, you'll find a variety of my projects showcasing automation scripts, cybersecurity tools, and contributions to open-source initiatives. I enjoy solving complex problems and building tools that improve both business efficiency and security.
+
+My Key Skills:
+
+Cybersecurity (KALI Linux, OWASP, MITRE ATT&CK)
+Risk Assessment & Vulnerability Testing
+SQL Database Management & Oracle Databases
+Python Scripting for Automation
+Server & Network Administration
+Cloud Solutions (Azure Certified - AZ-900)
+Web Development (HTML, CSS)
+PC Troubleshooting / Remote Support
+Feel free to explore my repositories, connect with me on LinkedIn, or reach out via email if you're interested in collaborating on projects or need IT consulting!
+
+
+
 
 <!---
 Sudocod3r/Sudocod3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
