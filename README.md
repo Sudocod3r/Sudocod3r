@@ -1,35 +1,95 @@
  ![TryHackMeBadge](https://github.com/Sudocod3r/Sudocod3r/assets/125510528/feb3e9b7-a375-4919-98df-92fc199f1f86)
-# 👨‍💻 About Me
+🦑 Kyle Martin | IT Specialist & Founder of Squid Tech Services
+⸻
 
-Hi, I’m **Kyle Martin**, a passionate IT professional and the founder of **Squid Tech Services**, where I help small businesses streamline their technology and achieve operational efficiency. With expertise in **Oracle database management**, **SQL querying**, **Python scripting**, and **cybersecurity**, I deliver fast, intelligent IT solutions tailored to each client’s unique needs.
+👋 About Me
 
-In addition to running my own business, I have hands-on experience as a **Distribution Control System Technician** where I’ve developed and automated workflows using Python and SQL to enhance system performance and resolve critical issues. I’m also proficient in **server management**, **network security**, and **penetration testing**, making me a well-rounded IT specialist.
+Hi, I’m Kyle Martin, an IT Specialist, automation builder, and the founder of Squid Tech Services, where I help small businesses fix slow systems, secure their networks, and streamline their technology.
 
-On GitHub, you'll find a variety of my projects showcasing automation scripts, cybersecurity tools, and contributions to open-source initiatives. I enjoy solving complex problems and building tools that improve both business efficiency and security.
+I’ve supported small practices, multi-location organizations, mid-sized companies, and enterprise environments through MSP work and in-house support. My strongest areas include Azure, Microsoft 365, Entra ID, Intune, automation scripting, cybersecurity, systems administration, and dental office IT support.
 
----
+⸻
 
-## 🚀 **My Key Skills:**
+🚀 Core Skills & Technologies
 
-- 🛡️ **Cybersecurity** (KALI Linux, OWASP, MITRE ATT&CK)  
-- 🔍 **Risk Assessment & Vulnerability Testing**  
-- 💾 **SQL Database Management & Oracle Databases**  
-- 🐍 **Python Scripting for Automation**  
-- 🖥️ **Server & Network Administration**  
-- ☁️ **Cloud Solutions** (Azure Certified - AZ-900)  
-- 🌐 **Web Development** (HTML, CSS)  
-- 🖱️ **PC Troubleshooting / Remote Support**
+☁️ Cloud & MSP Experience
+	•	Microsoft 365 Administration
+	•	Azure (VMs, Entra ID, Intune, App Services)
+	•	Multi-tenant MSP support (small to enterprise)
+	•	User/device identity troubleshooting
+	•	Conditional Access, MFA, security baselines
+	•	Intune device configuration and policy repair
+	•	Ticketing systems, escalations, and SLAs
+	•	Backup systems and cloud policy management
 
----
+⸻
 
-## 🌐 **Connect with Me:**
+🖥️ Systems & Networking
+	•	Windows Server & Linux administration
+	•	VM deployment (Azure, Hyper-V, VMware)
+	•	Firewall configuration and rule tuning
+	•	DHCP/DNS troubleshooting and WiFi stability
+	•	LAN/WAN diagnostics and device communication fixes
+	•	Workstation and server performance tuning
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kyle-martin-329920266)  
-- 📧 [Email](mailto:martin.kyle121@gmail.com)  
-- 🖥️ [GitHub Repositories](https://github.com/sudocod3r)
+⸻
 
-Feel free to explore my repositories, connect with me, or reach out if you're interested in collaborating on projects or need IT consulting!
+🐍 Automation & Scripting
+	•	Python automation tools
+	•	PowerShell administration and workflow automation
+	•	Scripted troubleshooting for M365 and Intune
+	•	Cybersecurity automation and reporting
 
+⸻
+
+🛡️ Cybersecurity
+	•	Kali Linux, OWASP, MITRE ATT&CK
+	•	Vulnerability testing and remediation
+	•	Network security hardening
+	•	Penetration testing fundamentals
+
+⸻
+
+💻 Dental Office Tech Support
+	•	Open Dental performance optimization
+	•	Server/workstation communication issues
+	•	Imaging device and sensor troubleshooting
+	•	Network drops, slow PCs, and WiFi issues
+	•	Daily syncs, backups, and after-hours maintenance
+
+⸻
+
+🗄️ SQL & Database Work
+	•	SQL querying and optimization
+	•	Oracle Database troubleshooting
+	•	Data extraction and workflow automation
+
+⸻
+
+📁 Featured Projects
+	•	Lazy Tech Toolkit – PowerShell troubleshooting suite for Microsoft 365 and Windows
+	•	Swiss_HArmy_Knife (SHAK) – Python recon toolkit for Kali Linux
+	•	Squid Tech Services – Web-based IT booking and support platform
+	•	Python and PowerShell automation tools for IT workflows
+
+⸻
+
+🌐 Connect With Me
+
+📧 martin.kyle121@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/kyle-martin-329920266
+🖥️ GitHub: https://github.com/sudocod3r
+🦑 Squid Tech Services: https://sudocod3r.github.io/SquidTechServices/contact.html
+
+⸻
+
+🦑 Made by Squid Tech Services
+
+Keeping businesses fast, secure, and efficient.
+
+⸻
+
+If you want a banner graphic, GitHub stats cards, or a Squid-themed header added, just say the word.
 
 
 
