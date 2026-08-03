@@ -1,4 +1,4 @@
-# 🦑 Kyle Martin | IT Specialist & Founder of Squid Tech Services
+# 🦑 Kyle Martin | IT Specialist | Systems Administrator
  ![TryHackMeBadge](https://github.com/Sudocod3r/Sudocod3r/assets/125510528/feb3e9b7-a375-4919-98df-92fc199f1f86)
 
 
